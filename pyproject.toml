@@ -6,7 +6,7 @@ authors = ["Тимофей Кривунченко <timkri@bk.ru>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-django = "4.2.0"
+django = "4.2.11"
 djangorestframework = "^3.14.0"
 django-filter = "^23.5"
 django-debug-toolbar = "^4.2.0"
